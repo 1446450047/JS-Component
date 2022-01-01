@@ -1,0 +1,19 @@
+.menu-icon-wrapper{
+  cursor: pointer;
+  div{
+    transition: 0.4s;
+    width: 35px;
+    height: 5px;
+    background-color: #000;
+    margin-top: 6px;
+  }
+  &.change .bar1{
+    transform: rotate(45deg) translate(6px,6px);
+  }
+  &.change .bar2{
+    opacity: 0;
+  }
+  &.change .bar3{
+    transform: rotate(-45deg) translate(9px,-10px);
+  }
+}
