@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42ca9505-89bc-43e3-8e86-c98c273e66ad" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/login-form/login-form.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Button/button.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Button/button.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +56,7 @@
       <workItem from="1640934228234" duration="785000" />
       <workItem from="1641014845861" duration="4241000" />
       <workItem from="1641027930971" duration="4591000" />
-      <workItem from="1641042521597" duration="664000" />
+      <workItem from="1641042521597" duration="2499000" />
     </task>
     <task id="LOCAL-00001" summary="初始化">
       <created>1641042623800</created>
@@ -85,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641042728235</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="添加danger,warning,info按钮的样式">
+      <created>1641043289645</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1641043289645</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,13 +104,14 @@
     <MESSAGE value="完成了菜单的内容" />
     <MESSAGE value="更改首页和main的内容" />
     <MESSAGE value="添加了默认按钮" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加了默认按钮" />
+    <MESSAGE value="添加danger,warning,info按钮的样式" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加danger,warning,info按钮的样式" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="281" y="0" key="CommitChangelistDialog2" timestamp="1641042721018">
+    <state x="258" y="0" key="CommitChangelistDialog2" timestamp="1641043288476">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="281" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1641042721018" />
+    <state x="258" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1641043288476" />
     <state x="337" y="147" key="EditFileWatcherDialog" timestamp="1641015226198">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

@@ -1,21 +1,45 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="favicon.svg" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<head>
+    <meta charset="UTF-8"/>
+    <link rel="icon" type="image/svg+xml" href="favicon.svg"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <title>Vite App</title>
-  </head>
-  <body>
-  <div id="app">
+</head>
+<body>
+<div id="app">
     <h3 class="title">Menu Icon</h3>
     <div class="menu-icon-wrapper">
-      <div class="bar1"></div>
-      <div class="bar2"></div>
-      <div class="bar3"></div>
+        <div class="bar1"></div>
+        <div class="bar2"></div>
+        <div class="bar3"></div>
     </div>
     <h3 class="title">Login For</h3>
-    <button>login</button>
+    <button class="btn info">login</button>
+
+    <form class="login-form" action="/JS-component">
+        <div class="imageContainer">
+            <span class="closeIcon">x</span>
+            <img src="" alt="image">
+        </div>
+        <div class="content">
+            <lable>
+                <span>Username</span>
+                <input type="text">
+            </lable>
+            <lable>
+                <span>Password</span>
+                <input type="password">
+            </lable>
+            <button class="btn success">Login</button>
+            <lable><input type="checkbox"><span>Remember me</span></lable>
+        </div>
+        <div class="footer">
+            <button class="btn danger">Cancel</button>
+            <lable><span>forgot <a href="#">password</a> </span></lable>
+        </div>
+    </form>
+
     <h3 class="title">Button</h3>
     <button class="btn default">Default</button>
     <button class="btn success">success</button>
@@ -23,8 +47,8 @@
     <button class="btn warning">warning</button>
     <button class="btn info">info</button>
 
-  </div>
+</div>
 
-    <script type="module" src="/main.js"></script>
-  </body>
+<script type="module" src="/main.js"></script>
+</body>
 </html>
