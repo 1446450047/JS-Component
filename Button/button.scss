@@ -11,4 +11,33 @@
     background: #c8c2c2;
     color: white;
 }
+  &.success{
+    background: #06a906;
+    color: white;
+  }
+  &.success:hover{
+    background: green;
+  }
+  &.danger{
+    background: #F44336;
+    color: white;
+  }
+  &.danger:hover{
+    background: red;
+  }
+
+  &.warning{
+    background: #e99d13;
+    color: white;
+  }
+  &.warning:hover{
+    background: orange;
+  }
+  &.info{
+    background: dodgerblue;
+    color: white;
+  }
+  &.info:hover{
+    background: #306fe7;
+  }
 }
