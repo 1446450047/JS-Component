@@ -1,5 +1,4 @@
 .input{
-  border: 1px solid red;
   padding: 8px;
   &.default{
     display: flex;
@@ -17,8 +16,9 @@
       border-radius: 4px;
       padding: 0 8px;
       font-size: 16px;
+      border: 1px solid grey;
       &:focus{
-        border: 1px solid #1a1818;
+        border: 1px solid #000000;
       }
     }
   }

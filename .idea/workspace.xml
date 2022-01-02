@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42ca9505-89bc-43e3-8e86-c98c273e66ad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/input/input.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/input/input.scss" beforeDir="false" afterPath="$PROJECT_DIR$/input/input.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login-form/login-form.scss" beforeDir="false" afterPath="$PROJECT_DIR$/login-form/login-form.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +58,7 @@
       <workItem from="1641027930971" duration="4591000" />
       <workItem from="1641042521597" duration="3701000" />
       <workItem from="1641101523321" duration="1060000" />
-      <workItem from="1641110426438" duration="3973000" />
+      <workItem from="1641110426438" duration="7698000" />
     </task>
     <task id="LOCAL-00001" summary="初始化">
       <created>1641042623800</created>
@@ -116,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641112335322</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="添加简单的input">
+      <created>1641114537958</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1641114537958</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,20 +139,21 @@
     <MESSAGE value="添加部分login-form的css" />
     <MESSAGE value="修改button的外边距" />
     <MESSAGE value="添加form表单部分的css，下一步添加input组件" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加form表单部分的css，下一步添加input组件" />
+    <MESSAGE value="添加简单的input" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加简单的input" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="258" y="0" key="CommitChangelistDialog2" timestamp="1641112329498">
+    <state x="258" y="0" key="CommitChangelistDialog2" timestamp="1641114535023">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="258" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1641112329498" />
+    <state x="258" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1641114535023" />
     <state x="337" y="147" key="EditFileWatcherDialog" timestamp="1641015226198">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="337" y="147" key="EditFileWatcherDialog/0.0.1366.728@0.0.1366.728" timestamp="1641015226198" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1641041582574">
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1641118210679">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1641041582574" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1641118210679" />
   </component>
 </project>

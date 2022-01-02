@@ -15,34 +15,34 @@
         <div class="bar3"></div>
     </div>
     <h3 class="title">Login For</h3>
-    <button class="btn info">login</button>
-
-    <form class="login-form" action="/JS-component">
-        <div class="imageContainer">
-            <span class="closeIcon">x</span>
-            <img src="./public/image/avatar.jpg" alt="image">
-        </div>
-        <div class="content">
-
-            <lable class="input default">
-                <span>Username</span>
-                <input placeholder="please enter" type="text">
-            </lable>
-            <lable class="input default">
-                <span>Password</span>
-                <input placeholder="please enter" type="password">
-            </lable>
-            <div class="login-btn">
-                <button class="btn success">Login</button>
-                <lable><input type="checkbox"><span>Remember me</span></lable>
+    <button class="btn info" onclick="document.querySelector('.login-from-wrapper').style.display = 'block'">login</button>
+    <div class="login-from-wrapper">
+        <form class="login-form" action="/JS-component">
+            <div class="imageContainer">
+                <span class="closeIcon" onclick="document.querySelector('.login-from-wrapper').style.display = 'none'">x</span>
+                <img src="./public/image/avatar.jpg" alt="image">
             </div>
-        </div>
-        <div class="footer">
-            <button class="btn danger">Cancel</button>
-            <lable><span>forgot <a href="#">password</a> </span></lable>
-        </div>
-    </form>
+            <div class="content">
 
+                <lable class="input default">
+                    <span>Username</span>
+                    <input placeholder="please enter" type="text">
+                </lable>
+                <lable class="input default">
+                    <span>Password</span>
+                    <input placeholder="please enter" type="password">
+                </lable>
+                <div class="login-btn">
+                    <button class="btn success">Login</button>
+                    <lable><input type="checkbox"><span>Remember me</span></lable>
+                </div>
+            </div>
+            <div class="footer">
+                <button class="btn danger">Cancel</button>
+                <lable><span>forgot <a href="#">password</a> </span></lable>
+            </div>
+        </form>
+    </div>
     <h3 class="title">Button</h3>
     <button class="btn default">Default</button>
     <button class="btn success">success</button>
