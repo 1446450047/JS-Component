@@ -1,0 +1,25 @@
+.input{
+  border: 1px solid red;
+  padding: 8px;
+  &.default{
+    display: flex;
+    flex-direction: column;
+    >span{
+      font-weight: bold;
+      font-size: 18px;
+      margin-bottom: 6px;
+    }
+    >input{
+      display: inline-block;
+      height: 35px;
+      width: 350px;
+      outline: none;
+      border-radius: 4px;
+      padding: 0 8px;
+      font-size: 16px;
+      &:focus{
+        border: 1px solid #1a1818;
+      }
+    }
+  }
+}
