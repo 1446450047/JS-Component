@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="42ca9505-89bc-43e3-8e86-c98c273e66ad" name="Default Changelist" comment="">
+    <list default="true" id="42ca9505-89bc-43e3-8e86-c98c273e66ad" name="Default Changelist" comment="修改部分样式">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input/input.scss" beforeDir="false" afterPath="$PROJECT_DIR$/input/input.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/login-form/login-form.scss" beforeDir="false" afterPath="$PROJECT_DIR$/login-form/login-form.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +55,8 @@
       <workItem from="1641027930971" duration="4591000" />
       <workItem from="1641042521597" duration="3701000" />
       <workItem from="1641101523321" duration="1060000" />
-      <workItem from="1641110426438" duration="8483000" />
+      <workItem from="1641110426438" duration="8674000" />
+      <workItem from="1641267559608" duration="1330000" />
     </task>
     <task id="LOCAL-00001" summary="初始化">
       <created>1641042623800</created>
@@ -129,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641118533205</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="修改部分样式">
+      <created>1641119269469</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1641119269469</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,13 +153,14 @@
     <MESSAGE value="添加form表单部分的css，下一步添加input组件" />
     <MESSAGE value="添加简单的input" />
     <MESSAGE value="完成login-form的css内容，并且加上fixed定位" />
-    <option name="LAST_COMMIT_MESSAGE" value="完成login-form的css内容，并且加上fixed定位" />
+    <MESSAGE value="修改部分样式" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改部分样式" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="258" y="0" key="CommitChangelistDialog2" timestamp="1641118532142">
+    <state x="258" y="0" key="CommitChangelistDialog2" timestamp="1641267938625">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="258" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1641118532142" />
+    <state x="258" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1641267938625" />
     <state x="337" y="147" key="EditFileWatcherDialog" timestamp="1641015226198">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
