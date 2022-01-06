@@ -1,0 +1,39 @@
+.animation-btn{
+  width: 100px;
+  height: 40px;
+  outline: none;
+  font-size: 16px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin: 4px 2px;
+  color: white;
+  &.pressed{
+    background: #04aa6d;
+    box-shadow: 0 6px 1px  #999999;
+    &:hover{
+      background: #18b37a;
+    }
+    &:active{
+      box-shadow: 0 2px 1px #999999;
+      transform: translateY(4px);
+    }
+  }
+  &.arrow{
+    transition:  0.5s;
+
+    background: #F4511E;
+    &:after{
+      display: none;
+      content: "\00bb";
+      margin-left: 4px;
+      transition: display 1s ;
+
+    }
+    &:hover:after{
+      display: inline-block;
+      transition: display 1s ;
+
+    }
+  }
+}
