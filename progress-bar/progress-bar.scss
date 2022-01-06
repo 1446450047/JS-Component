@@ -1,0 +1,11 @@
+.progress-bar{
+  height: 30px;
+  background: #DDDDDD;
+  >.bar{
+    background: #04AA6D;
+    width: 1%;
+    height: 100%;
+    text-align: center;
+    line-height: 30px;
+  }
+}
