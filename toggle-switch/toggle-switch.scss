@@ -1,0 +1,34 @@
+.toggle-switch{
+  height: 30px;
+  width: 60px;
+  padding: 3px 3px;
+  background: #CCCCCC;
+  position: relative;
+  transition: all 0.3s;
+  &.circle{
+    border-radius: 40px;
+  }
+  &.active{
+    background: #2196F3;
+  }
+  >.slider{
+
+    transition: all 0.3s;
+    position: absolute;
+    top: 3px;
+    left: 3px;
+    right: 0;
+    bottom: 0;
+    width: 24px;
+    height: 24px;
+    background: white;
+    cursor: pointer;
+    &.circle{
+      border-radius: 25px;
+    }
+    &.active{
+      transition: all 0.3s;
+      left: 33px;
+    }
+  }
+}
