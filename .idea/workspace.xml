@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42ca9505-89bc-43e3-8e86-c98c273e66ad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/range-slider/range-slider.scss" afterDir="false" />
+    <list default="true" id="42ca9505-89bc-43e3-8e86-c98c273e66ad" name="Default Changelist" comment="完成range-slider">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/range-slider.scss" beforeDir="false" afterPath="$PROJECT_DIR$/range-slider/range-slider.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +68,8 @@
       <workItem from="1641267559608" duration="3924000" />
       <workItem from="1641289799916" duration="1359000" />
       <workItem from="1641389410664" duration="2652000" />
-      <workItem from="1641439885939" duration="13386000" />
+      <workItem from="1641439885939" duration="14339000" />
+      <workItem from="1641555916686" duration="1648000" />
     </task>
     <task id="LOCAL-00001" summary="初始化">
       <created>1641042623800</created>
@@ -178,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641465879949</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="完成range-slider">
+      <created>1641475146826</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1641475146826</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -201,13 +206,18 @@
     <MESSAGE value="完成progress-bar" />
     <MESSAGE value="添加按压按钮和hover按钮" />
     <MESSAGE value="添加range-slider的基本文件" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加range-slider的基本文件" />
+    <MESSAGE value="完成range-slider" />
+    <option name="LAST_COMMIT_MESSAGE" value="完成range-slider" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="258" y="0" key="CommitChangelistDialog2" timestamp="1641465878787">
+    <state x="258" y="0" key="CommitChangelistDialog2" timestamp="1641475994502">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="258" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1641465878787" />
+    <state x="258" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1641475994502" />
+    <state x="106" y="55" key="DiffContextDialog" timestamp="1641475981305">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="106" y="55" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1641475981305" />
     <state x="337" y="147" key="EditFileWatcherDialog" timestamp="1641015226198">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

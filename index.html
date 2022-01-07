@@ -15,26 +15,28 @@
         <div class="bar3"></div>
     </div>
     <h3 class="title">Login For</h3>
-    <button class="btn info" onclick="document.querySelector('.login-from-wrapper').style.display = 'block'">login</button>
+    <button class="btn info" onclick="document.querySelector('.login-from-wrapper').style.display = 'block'">login
+    </button>
     <div class="login-from-wrapper">
         <form class="login-form" action="/JS-component">
             <div class="imageContainer">
-                <span class="closeIcon" onclick="document.querySelector('.login-from-wrapper').style.display = 'none'">x</span>
+                <span class="closeIcon"
+                      onclick="document.querySelector('.login-from-wrapper').style.display = 'none'">x</span>
                 <img src="./public/image/avatar.jpg" alt="image">
             </div>
             <div class="content">
 
-                <lable class="input default">
+                <label class="input default">
                     <span>Username</span>
                     <input placeholder="please enter" type="text">
-                </lable>
-                <lable class="input default">
+                </label>
+                <label class="input default">
                     <span>Password</span>
                     <input placeholder="please enter" type="password">
-                </lable>
+                </label>
                 <div class="login-btn">
                     <button class="btn success">Login</button>
-                    <lable><input type="checkbox"><span>Remember me</span></lable>
+                    <label><input type="checkbox"><span>Remember me</span></label>
                 </div>
             </div>
             <div class="footer">
@@ -53,10 +55,10 @@
     <button class="animation-btn arrow">Hover</button>
 
     <h3 class="title">Input</h3>
-    <lable class="input default">
+    <label class="input default">
         <span>Username</span>
         <input placeholder="please enter" type="text">
-    </lable>
+    </label>
 
     <h3 class="title">Loader</h3>
     <div class="loader"></div>
@@ -64,11 +66,18 @@
     <div class="progress-bar">
         <div class="bar"></div>
     </div>
-    <br><button class="btn success progress-bar" >Run</button>
+    <br>
+    <button class="btn success progress-bar">Run</button>
 
     <h3 class="title">Range Slider</h3>
-    <input type="range" min="1" max="100" value="50" class="ranger-slider">
+    <label class="ranger-slider">
+        <input type="range" min="1" max="100" value="50">
+    </label>
     <p class="ranger-slider-content">50</p>
+
+    <h3 class="title">Toggle Switch</h3>
+    <label class="toggle-switch"></label>
+
 </div>
 
 <script type="module" src="/main.js"></script>
