@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="42ca9505-89bc-43e3-8e86-c98c273e66ad" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/to-top/to-top.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/image-slide/image-slide.scss" beforeDir="false" afterPath="$PROJECT_DIR$/image-slide/image-slide.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +76,8 @@
       <workItem from="1641648961448" duration="2371000" />
       <workItem from="1641721840735" duration="844000" />
       <workItem from="1641794853600" duration="594000" />
-      <workItem from="1641886357318" duration="2302000" />
+      <workItem from="1641886357318" duration="2378000" />
+      <workItem from="1642064564896" duration="2098000" />
     </task>
     <task id="LOCAL-00001" summary="初始化">
       <created>1641042623800</created>
@@ -210,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641652224821</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="完成Image Slide的上和右">
+      <created>1641892025805</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1641892025805</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -237,17 +246,18 @@
     <MESSAGE value="调整label错误" />
     <MESSAGE value="添加toggle" />
     <MESSAGE value="今天不想写，去下棋" />
-    <option name="LAST_COMMIT_MESSAGE" value="今天不想写，去下棋" />
+    <MESSAGE value="完成Image Slide的上和右" />
+    <option name="LAST_COMMIT_MESSAGE" value="完成Image Slide的上和右" />
   </component>
   <component name="WindowStateProjectService">
     <state x="412" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1641650703511">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="412" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1641650703511" />
-    <state x="258" y="0" key="CommitChangelistDialog2" timestamp="1641652223572">
+    <state x="258" y="0" key="CommitChangelistDialog2" timestamp="1641892020017">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="258" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1641652223572" />
+    <state x="258" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1641892020017" />
     <state x="106" y="55" key="DiffContextDialog" timestamp="1641475981305">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -256,9 +266,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="337" y="147" key="EditFileWatcherDialog/0.0.1366.728@0.0.1366.728" timestamp="1641015226198" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1641650715602">
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1642071843548">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1641650715602" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1642071843548" />
   </component>
 </project>
