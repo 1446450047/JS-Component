@@ -5,6 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="42ca9505-89bc-43e3-8e86-c98c273e66ad" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/global.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scroll-indicator/scroll-indicator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scroll-indicator/scroll-indicator.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scroll-indicator/scroll-indicator.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/to-top/to-top.js" beforeDir="false" afterPath="$PROJECT_DIR$/to-top/to-top.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +79,7 @@
       <workItem from="1641721840735" duration="844000" />
       <workItem from="1641794853600" duration="594000" />
       <workItem from="1641886357318" duration="2378000" />
-      <workItem from="1642064564896" duration="5521000" />
+      <workItem from="1642064564896" duration="7243000" />
     </task>
     <task id="LOCAL-00001" summary="初始化">
       <created>1641042623800</created>
@@ -258,14 +263,20 @@
       <option name="project" value="LOCAL" />
       <updated>1642075658722</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="添加to-top回到顶部的js">
+      <created>1642075913772</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1642075913772</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="更改首页和main的内容" />
     <MESSAGE value="添加了默认按钮" />
     <MESSAGE value="添加danger,warning,info按钮的样式" />
     <MESSAGE value="加入login-form的基本html" />
@@ -290,17 +301,18 @@
     <MESSAGE value="完善滚轮事件" />
     <MESSAGE value="添加scroll-indicator基本文件" />
     <MESSAGE value="添加scroll indicator简单样式" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加scroll indicator简单样式" />
+    <MESSAGE value="添加to-top回到顶部的js" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加to-top回到顶部的js" />
   </component>
   <component name="WindowStateProjectService">
     <state x="412" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1641650703511">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="412" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1641650703511" />
-    <state x="258" y="0" key="CommitChangelistDialog2" timestamp="1642075657487">
+    <state x="262" y="0" key="CommitChangelistDialog2" timestamp="1642075908642">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="258" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1642075657487" />
+    <state x="262" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1642075908642" />
     <state x="106" y="55" key="DiffContextDialog" timestamp="1641475981305">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -309,9 +321,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="337" y="147" key="EditFileWatcherDialog/0.0.1366.728@0.0.1366.728" timestamp="1641015226198" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1642075004810">
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1642077414636">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1642075004810" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1642077414636" />
   </component>
 </project>
