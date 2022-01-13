@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42ca9505-89bc-43e3-8e86-c98c273e66ad" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/to-top/to-top.js" beforeDir="false" afterPath="$PROJECT_DIR$/to-top/to-top.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/to-top/to-top.scss" beforeDir="false" afterPath="$PROJECT_DIR$/to-top/to-top.scss" afterDir="false" />
-    </list>
+    <list default="true" id="42ca9505-89bc-43e3-8e86-c98c273e66ad" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,7 +72,7 @@
       <workItem from="1641721840735" duration="844000" />
       <workItem from="1641794853600" duration="594000" />
       <workItem from="1641886357318" duration="2378000" />
-      <workItem from="1642064564896" duration="3816000" />
+      <workItem from="1642064564896" duration="4158000" />
     </task>
     <task id="LOCAL-00001" summary="初始化">
       <created>1641042623800</created>
@@ -239,7 +235,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642072579386</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="完善滚轮事件">
+      <created>1642074193507</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1642074193507</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -270,17 +273,18 @@
     <MESSAGE value="添加回到顶部的html，css" />
     <MESSAGE value="完善to-top的样式" />
     <MESSAGE value="修改menu-icon的display属性为inline-block" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改menu-icon的display属性为inline-block" />
+    <MESSAGE value="完善滚轮事件" />
+    <option name="LAST_COMMIT_MESSAGE" value="完善滚轮事件" />
   </component>
   <component name="WindowStateProjectService">
     <state x="412" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1641650703511">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="412" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1641650703511" />
-    <state x="258" y="0" key="CommitChangelistDialog2" timestamp="1642072576891">
+    <state x="258" y="0" key="CommitChangelistDialog2" timestamp="1642074192448">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="258" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1642072576891" />
+    <state x="258" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1642074192448" />
     <state x="106" y="55" key="DiffContextDialog" timestamp="1641475981305">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
