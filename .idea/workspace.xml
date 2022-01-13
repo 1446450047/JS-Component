@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="42ca9505-89bc-43e3-8e86-c98c273e66ad" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/to-top/to-top.js" beforeDir="false" afterPath="$PROJECT_DIR$/to-top/to-top.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/to-top/to-top.scss" beforeDir="false" afterPath="$PROJECT_DIR$/to-top/to-top.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +76,7 @@
       <workItem from="1641721840735" duration="844000" />
       <workItem from="1641794853600" duration="594000" />
       <workItem from="1641886357318" duration="2378000" />
-      <workItem from="1642064564896" duration="2407000" />
+      <workItem from="1642064564896" duration="3816000" />
     </task>
     <task id="LOCAL-00001" summary="初始化">
       <created>1641042623800</created>
@@ -223,7 +225,21 @@
       <option name="project" value="LOCAL" />
       <updated>1642072279384</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="完善to-top的样式">
+      <created>1642072483541</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1642072483541</updated>
+    </task>
+    <task id="LOCAL-00023" summary="修改menu-icon的display属性为inline-block">
+      <created>1642072579386</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1642072579386</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -252,17 +268,19 @@
     <MESSAGE value="今天不想写，去下棋" />
     <MESSAGE value="完成Image Slide的上和右" />
     <MESSAGE value="添加回到顶部的html，css" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加回到顶部的html，css" />
+    <MESSAGE value="完善to-top的样式" />
+    <MESSAGE value="修改menu-icon的display属性为inline-block" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改menu-icon的display属性为inline-block" />
   </component>
   <component name="WindowStateProjectService">
     <state x="412" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1641650703511">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="412" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1641650703511" />
-    <state x="258" y="0" key="CommitChangelistDialog2" timestamp="1642072482449">
+    <state x="258" y="0" key="CommitChangelistDialog2" timestamp="1642072576891">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="258" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1642072482449" />
+    <state x="258" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1642072576891" />
     <state x="106" y="55" key="DiffContextDialog" timestamp="1641475981305">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
