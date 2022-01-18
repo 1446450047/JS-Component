@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="42ca9505-89bc-43e3-8e86-c98c273e66ad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tabs/tabs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tabs/tabs.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tabs/tabs.js" beforeDir="false" afterPath="$PROJECT_DIR$/tabs/tabs.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +78,7 @@
       <workItem from="1642252604331" duration="2752000" />
       <workItem from="1642320589467" duration="2757000" />
       <workItem from="1642384813638" duration="840000" />
-      <workItem from="1642497882557" duration="5051000" />
+      <workItem from="1642497882557" duration="5407000" />
     </task>
     <task id="LOCAL-00001" summary="初始化">
       <created>1641042623800</created>
@@ -322,14 +318,20 @@
       <option name="project" value="LOCAL" />
       <updated>1642510278179</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="完成tabs的css部分">
+      <created>1642514277016</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1642514277016</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="添加简单的input" />
     <MESSAGE value="完成login-form的css内容，并且加上fixed定位" />
     <MESSAGE value="修改部分样式" />
     <MESSAGE value="添加Loader基本文件" />
@@ -354,17 +356,18 @@
     <MESSAGE value="添加flip-box基本文件" />
     <MESSAGE value="finish flip-box 但不知道怎么实现的" />
     <MESSAGE value="添加tabs的html" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加tabs的html" />
+    <MESSAGE value="完成tabs的css部分" />
+    <option name="LAST_COMMIT_MESSAGE" value="完成tabs的css部分" />
   </component>
   <component name="WindowStateProjectService">
     <state x="412" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1641650703511">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="412" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1641650703511" />
-    <state x="262" y="0" key="CommitChangelistDialog2" timestamp="1642510276637">
+    <state x="262" y="0" key="CommitChangelistDialog2" timestamp="1642514275675">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="262" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1642510276637" />
+    <state x="262" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1642514275675" />
     <state x="106" y="55" key="DiffContextDialog" timestamp="1641475981305">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
