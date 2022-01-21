@@ -7,19 +7,37 @@
   width: 100%;
   height: 100%;
   background: #191919;
-  opacity: 0.5;
+  opacity: 0.8;
   z-index: 101;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 
   > .close {
     position: absolute;
-    color: #ffffff;
+    color: #818181;
     right: 4%;
     top: 4%;
-    font-size: 32px;
+    font-size: 56px;
+
+    &:hover {
+      color: #fff;
+    }
   }
-  >.overlay-content{
-    >a{
-      color: #ffffff;
+
+  > .overlay-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    > a {
+      font-size: 48px;
+      color: #818181;
+      margin-bottom: 12px;
+      &:hover {
+        color: #ffffff;
+      }
     }
   }
 }
