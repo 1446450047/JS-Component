@@ -5,6 +5,7 @@
     background: #F1F1F1;
     border-bottom: 1px solid #CCCCCC;
     button{
+      transition: 0.3s;
       font-size: 16px;
       padding: 14px 16px;
       border: none;
@@ -15,11 +16,13 @@
         background: #DDDDDD;
       }
       &.active{
-        background: #CCCCCC;
+        background: #8f8d8d;
       }
     }
   }
   >.tabContent{
+    animation: fade-in 1s;
+    transition: all 0.8s;
     padding: 12px 4px;
     &#London{
     }
@@ -33,4 +36,9 @@
       margin-bottom: 32px;
     }
   }
+}
+
+@keyframes fade-in {
+  from {opacity: 0}
+  to {opacity: 1}
 }
