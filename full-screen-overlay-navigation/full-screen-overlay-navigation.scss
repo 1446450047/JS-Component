@@ -1,5 +1,6 @@
 .full-navigation-wrapper {
-  display: none;
+  transition: all 0.5s;
+  display: flex;
   position: fixed;
   top: 0;
   left: 0;
@@ -12,7 +13,10 @@
   z-index: 101;
   justify-content: center;
   align-items: center;
+  overflow: hidden;
   > .close {
+    transition: all 0.5s;
+
     position: absolute;
     color: #818181;
     right: 4%;
@@ -24,11 +28,12 @@
   }
 
   > .overlay-content {
+    transition: all 0.5s;
+
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin-top: 30%;
     > a {
       font-size: 48px;
       color: #818181;
@@ -37,5 +42,8 @@
         color: #ffffff;
       }
     }
+  }
+  &.hidden{
+    width: 0;
   }
 }
