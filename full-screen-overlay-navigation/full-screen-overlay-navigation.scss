@@ -1,4 +1,5 @@
 .full-navigation-wrapper {
+  display: none;
   position: fixed;
   top: 0;
   left: 0;
@@ -9,17 +10,14 @@
   background: #191919;
   opacity: 0.8;
   z-index: 101;
-  display: flex;
   justify-content: center;
   align-items: center;
-
   > .close {
     position: absolute;
     color: #818181;
     right: 4%;
     top: 4%;
     font-size: 56px;
-
     &:hover {
       color: #fff;
     }
@@ -30,7 +28,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-
+    margin-top: 30%;
     > a {
       font-size: 48px;
       color: #818181;
