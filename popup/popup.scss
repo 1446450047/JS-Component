@@ -1,0 +1,27 @@
+.popup{
+  display: inline-block;
+  position: relative;
+  cursor: pointer;
+  color: #29adbf;
+  >.popupText{
+    background: #555555;
+    color: white;
+    border-radius: 4px;
+    padding: 4px;
+    min-width: 160px;
+    position: absolute;
+    bottom: 130%;
+    left: 50%;
+    margin-left: -80px;
+    &:before{
+      content: "";
+      position: absolute;
+      border-width: 5px;
+      border-style: solid;
+      border-color: #555 transparent transparent transparent;
+      left: 50%;
+      top: 100%;
+
+    }
+  }
+}
