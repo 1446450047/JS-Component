@@ -4,7 +4,9 @@
   cursor: pointer;
   color: #29adbf;
   >.popupText{
+    text-align: center;
     background: #555555;
+    visibility: hidden;
     color: white;
     border-radius: 4px;
     padding: 4px;
@@ -21,7 +23,14 @@
       border-color: #555 transparent transparent transparent;
       left: 50%;
       top: 100%;
-
+    }
+    &.visible{
+      animation: fadeIn 0.5s;
+      visibility: visible;
     }
   }
+}
+@keyframes fadeIn{
+  from{opacity: 0}
+  to{opacity: 1}
 }
