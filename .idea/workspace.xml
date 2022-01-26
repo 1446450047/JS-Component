@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="42ca9505-89bc-43e3-8e86-c98c273e66ad" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/accordion/accordion.js" beforeDir="false" afterPath="$PROJECT_DIR$/accordion/accordion.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,14 +86,7 @@
       <workItem from="1643002904626" duration="3928000" />
       <workItem from="1643112533123" duration="1872000" />
       <workItem from="1643162426214" duration="1170000" />
-      <workItem from="1643176523096" duration="3460000" />
-    </task>
-    <task id="LOCAL-00003" summary="更改首页和main的内容">
-      <created>1641042687848</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1641042687848</updated>
+      <workItem from="1643176523096" duration="4146000" />
     </task>
     <task id="LOCAL-00004" summary="添加了默认按钮">
       <created>1641042728235</created>
@@ -430,14 +424,20 @@
       <option name="project" value="LOCAL" />
       <updated>1643179996649</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="添加accordion 的符号">
+      <created>1643180310583</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1643180310583</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="添加scroll indicator简单样式" />
     <MESSAGE value="添加to-top回到顶部的js" />
     <MESSAGE value="添加全局global.js并且完成scroll-indictor" />
     <MESSAGE value="调整布局" />
@@ -462,18 +462,19 @@
     <MESSAGE value="accordion 添加scss" />
     <MESSAGE value="accordion 添加js" />
     <MESSAGE value="完成accordion的动画" />
-    <option name="LAST_COMMIT_MESSAGE" value="完成accordion的动画" />
+    <MESSAGE value="添加accordion 的符号" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加accordion 的符号" />
   </component>
   <component name="WindowStateProjectService">
     <state x="412" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1641650703511">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="412" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1641650703511" />
-    <state x="807" y="111" key="CommitChangelistDialog2" timestamp="1643179995309">
+    <state x="807" y="111" key="CommitChangelistDialog2" timestamp="1643180309222">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="262" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1642514764193" />
-    <state x="807" y="111" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1643179995309" />
+    <state x="807" y="111" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1643180309222" />
     <state x="106" y="55" key="DiffContextDialog" timestamp="1641475981305">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
