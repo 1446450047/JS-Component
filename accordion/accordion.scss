@@ -3,6 +3,18 @@
     background: #CCCCCC;
     padding: 16px 8px;
     cursor: pointer;
+    &:after{
+      content: "\02795";
+      font-size: 13px;
+      color: #777;
+      float: right;
+      margin-left: 5px;
+      font-weight: lighter;
+    }
+    &.active:after {
+        content: "\2796";
+      }
+
   }
   >.panel{
     transition: all 0.5s;
