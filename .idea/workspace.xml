@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="42ca9505-89bc-43e3-8e86-c98c273e66ad" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/accordion/accordion.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +85,8 @@
       <workItem from="1642852488777" duration="146000" />
       <workItem from="1642919681749" duration="3745000" />
       <workItem from="1643002904626" duration="3928000" />
-      <workItem from="1643112533123" duration="965000" />
+      <workItem from="1643112533123" duration="1872000" />
+      <workItem from="1643162426214" duration="294000" />
     </task>
     <task id="LOCAL-00001" summary="初始化">
       <created>1641042623800</created>
@@ -415,14 +417,20 @@
       <option name="project" value="LOCAL" />
       <updated>1643112902566</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="添加accordion的html">
+      <created>1643113967836</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1643113967836</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="完善to-top的样式" />
     <MESSAGE value="修改menu-icon的display属性为inline-block" />
     <MESSAGE value="完善滚轮事件" />
     <MESSAGE value="添加scroll-indicator基本文件" />
@@ -447,18 +455,19 @@
     <MESSAGE value="完成popup js 部分" />
     <MESSAGE value="修改poptext 的padding" />
     <MESSAGE value="修改login-form的布局" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改login-form的布局" />
+    <MESSAGE value="添加accordion的html" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加accordion的html" />
   </component>
   <component name="WindowStateProjectService">
     <state x="412" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1641650703511">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="412" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1641650703511" />
-    <state x="807" y="111" key="CommitChangelistDialog2" timestamp="1643112897903">
+    <state x="807" y="111" key="CommitChangelistDialog2" timestamp="1643113965840">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="262" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1642514764193" />
-    <state x="807" y="111" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1643112897903" />
+    <state x="807" y="111" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1643113965840" />
     <state x="106" y="55" key="DiffContextDialog" timestamp="1641475981305">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -467,10 +476,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="337" y="147" key="EditFileWatcherDialog/0.0.1366.728@0.0.1366.728" timestamp="1641015226198" />
-    <state x="486" y="70" width="945" height="969" key="search.everywhere.popup" timestamp="1643011000125">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1643113974457">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1643113974457" />
+    <state x="486" y="70" width="945" height="969" key="search.everywhere.popup" timestamp="1643162654941">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1642512991989" />
-    <state x="486" y="70" width="945" height="969" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1643011000125" />
+    <state x="486" y="70" width="945" height="969" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1643162654941" />
   </component>
 </project>
