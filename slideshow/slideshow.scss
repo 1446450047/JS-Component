@@ -1,7 +1,9 @@
 .slideShow-wrapper{
   position: relative;
   max-width: 1000px;
+  user-select: none;
   >.slideshow{
+    display: none;
     >.numberText{
       color: #f2f2f2;
       padding: 4px 8px;
@@ -14,6 +16,9 @@
       left: 50%;
       transform: translateX(-50%);
     }
+    &.active{
+      display: block;
+    }
   }
   >.previous,.next{
     position: absolute;
@@ -21,6 +26,7 @@
     top: 50%;
     color: white;
     font-size: 24px;
+    user-select: none;
     padding: 16px;
     &:hover{
       background: #0B0B0C;
@@ -28,6 +34,5 @@
   }
   >.next{
     right: 0;
-
   }
 }
