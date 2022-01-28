@@ -15,4 +15,19 @@
       transform: translateX(-50%);
     }
   }
+  >.previous,.next{
+    position: absolute;
+    cursor: pointer;
+    top: 50%;
+    color: white;
+    font-size: 24px;
+    padding: 16px;
+    &:hover{
+      background: #0B0B0C;
+    }
+  }
+  >.next{
+    right: 0;
+
+  }
 }
