@@ -15,7 +15,7 @@
     > .text {
       color: #f2f2f2;
       position: absolute;
-      bottom: 16px;
+      bottom: 52px;
       left: 50%;
       transform: translateX(-50%);
     }
@@ -41,6 +41,21 @@
 
   > .next {
     right: 0;
+  }
+  >.dot-wrapper{
+    text-align: center;
+    padding: 8px;
+    >span{
+      display: inline-block;
+      width: 20px;
+      height: 20px;
+      cursor: pointer;
+      border-radius: 50%;
+      background: #BBBBBB;
+      &.active{
+        background: #717171;
+      }
+    }
   }
 }
 

@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="42ca9505-89bc-43e3-8e86-c98c273e66ad" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/slideshow/slideShow.js" beforeDir="false" afterPath="$PROJECT_DIR$/slideshow/slideShow.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/slideshow/slideshow.scss" beforeDir="false" afterPath="$PROJECT_DIR$/slideshow/slideshow.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -91,14 +92,7 @@
       <workItem from="1643162426214" duration="1170000" />
       <workItem from="1643176523096" duration="4196000" />
       <workItem from="1643180810728" duration="19000" />
-      <workItem from="1643337799647" duration="6337000" />
-    </task>
-    <task id="LOCAL-00010" summary="完成login-form的css内容，并且加上fixed定位">
-      <created>1641118533205</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1641118533205</updated>
+      <workItem from="1643337799647" duration="6953000" />
     </task>
     <task id="LOCAL-00011" summary="修改部分样式">
       <created>1641119269469</created>
@@ -436,14 +430,20 @@
       <option name="project" value="LOCAL" />
       <updated>1643345099046</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="添加previous和next点击事件">
+      <created>1643345587549</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1643345587549</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="添加tabs的html" />
     <MESSAGE value="完成tabs的css部分" />
     <MESSAGE value="完成tabs的js部分" />
     <MESSAGE value="tabs添加过度动画" />
@@ -468,18 +468,19 @@
     <MESSAGE value="定图片上的文字的位置" />
     <MESSAGE value="完成slideshow的css部分" />
     <MESSAGE value="自动切换slideshow" />
-    <option name="LAST_COMMIT_MESSAGE" value="自动切换slideshow" />
+    <MESSAGE value="添加previous和next点击事件" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加previous和next点击事件" />
   </component>
   <component name="WindowStateProjectService">
     <state x="412" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1641650703511">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="412" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1641650703511" />
-    <state x="807" y="111" key="CommitChangelistDialog2" timestamp="1643345097698">
+    <state x="807" y="111" key="CommitChangelistDialog2" timestamp="1643345586114">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="262" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1642514764193" />
-    <state x="807" y="111" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1643345097698" />
+    <state x="807" y="111" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1643345586114" />
     <state x="106" y="55" key="DiffContextDialog" timestamp="1641475981305">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
