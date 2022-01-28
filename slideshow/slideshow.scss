@@ -1,26 +1,31 @@
-.slideShow-wrapper{
+.slideShow-wrapper {
   position: relative;
   max-width: 1000px;
   user-select: none;
-  >.slideshow{
+
+  > .slideshow {
     display: none;
-    >.numberText{
+    animation: fadeIn 0.4s;
+    > .numberText {
       color: #f2f2f2;
       padding: 4px 8px;
       position: absolute;
     }
-    >.text{
+
+    > .text {
       color: #f2f2f2;
       position: absolute;
       bottom: 16px;
       left: 50%;
       transform: translateX(-50%);
     }
-    &.active{
+
+    &.active {
       display: block;
     }
   }
-  >.previous,.next{
+
+  > .previous, .next {
     position: absolute;
     cursor: pointer;
     top: 50%;
@@ -28,11 +33,22 @@
     font-size: 24px;
     user-select: none;
     padding: 16px;
-    &:hover{
+
+    &:hover {
       background: #0B0B0C;
     }
   }
-  >.next{
+
+  > .next {
     right: 0;
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0.4;
+  }
+  to {
+    opacity: 1;
   }
 }
