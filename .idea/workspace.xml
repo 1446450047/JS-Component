@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="42ca9505-89bc-43e3-8e86-c98c273e66ad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/image/nature/img_lights_wide.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/image/nature/img_mountains_wide.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/image/nature/img_nature_wide.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/image/nature/img_snow_wide.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/slideshow/slideshow.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/slideshow/slideshow.scss" beforeDir="false" afterPath="$PROJECT_DIR$/slideshow/slideshow.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +48,9 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\何中峰\Desktop\JS-Component\public\image\nature" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\何中峰\Desktop\JS-Component\range-slider" />
     </key>
@@ -94,21 +92,7 @@
       <workItem from="1643162426214" duration="1170000" />
       <workItem from="1643176523096" duration="4196000" />
       <workItem from="1643180810728" duration="19000" />
-      <workItem from="1643337799647" duration="1886000" />
-    </task>
-    <task id="LOCAL-00005" summary="添加danger,warning,info按钮的样式">
-      <created>1641043289645</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1641043289645</updated>
-    </task>
-    <task id="LOCAL-00006" summary="加入login-form的基本html">
-      <created>1641045087918</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1641045087918</updated>
+      <workItem from="1643337799647" duration="3452000" />
     </task>
     <task id="LOCAL-00007" summary="修改button的外边距">
       <created>1641111715894</created>
@@ -439,15 +423,27 @@
       <option name="project" value="LOCAL" />
       <updated>1643180760338</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="添加slideshow基本文件">
+      <created>1643340837001</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1643340837004</updated>
+    </task>
+    <task id="LOCAL-00055" summary="添加slideshow图片">
+      <created>1643341048494</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1643341048494</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="添加全局global.js并且完成scroll-indictor" />
-    <MESSAGE value="调整布局" />
     <MESSAGE value="添加function按钮" />
     <MESSAGE value="添加flip-box基本文件" />
     <MESSAGE value="finish flip-box 但不知道怎么实现的" />
@@ -471,18 +467,20 @@
     <MESSAGE value="完成accordion的动画" />
     <MESSAGE value="添加accordion 的符号" />
     <MESSAGE value="修改一个accordion的初始高度bug" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改一个accordion的初始高度bug" />
+    <MESSAGE value="添加slideshow基本文件" />
+    <MESSAGE value="添加slideshow图片" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加slideshow图片" />
   </component>
   <component name="WindowStateProjectService">
     <state x="412" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1641650703511">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="412" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1641650703511" />
-    <state x="807" y="111" key="CommitChangelistDialog2" timestamp="1643180759045">
+    <state x="807" y="111" key="CommitChangelistDialog2" timestamp="1643341041393">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="262" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1642514764193" />
-    <state x="807" y="111" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1643180759045" />
+    <state x="807" y="111" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1643341041393" />
     <state x="106" y="55" key="DiffContextDialog" timestamp="1641475981305">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
